@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const SectionCont = styled.div`
-  margin-top: 20px;
+  margin-top: 50px;
 `;
 
 export const SectionTitle = styled.h2`
